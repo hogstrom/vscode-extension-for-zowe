@@ -431,7 +431,7 @@
     "@brightside/core": "2.0.0-next.201810091514",
     "@brightside/imperative": "2.0.0-next.201810081506",
     "jsdoc": "^3.5.5",
-    "vscode": "^1.1.6"
+    "vscode": "^1.1.22"
   },
   "jest": {
     "moduleFileExtensions": [
